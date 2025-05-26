@@ -5,7 +5,7 @@
 🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor  
 📍 **Based in**: Ogbomoso, Nigeria  
 📫 **Contact Me**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)  
-🌐 **Facebook**: [David Godpower](https://web.facebook.com/facebook.comDavidGodpower) 
+🌐 **Facebook**: [David Godspower](https://web.facebook.com/facebook.comDavidGodpower) 
 
 ---
 
