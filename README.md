@@ -1,4 +1,4 @@
-# 👋 Hello, I’m David Godspower (Ajala David)
+# 👋 Hello, I’m David Godspower Ajala 
 
 🎓 **Computer Engineering Student** at **LAUTECH**  
 💻 **Learning**: Python | Java | C++ | Animation  
