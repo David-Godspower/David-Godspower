@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** at **LAUTECH**  
 💻 **Learning**: Python | Java | C++ | Animation  
-🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor  
+🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor  | FullStack Developer 
 📍 **Based in**: Ogbomoso, Nigeria  
 📫 **Contact Me**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)  
 🌐 **Facebook**: [David Godspower](https://web.facebook.com/facebook.comDavidGodpower) 
