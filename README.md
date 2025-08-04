@@ -1,10 +1,15 @@
 # 👋 Hello, I’m David Godspower Ajala 
 
 🎓 **Computer Engineering Student** at **LAUTECH**  
-💻 **Learning**: Python | Java | C++ | Animation  
-🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor  | FullStack Developer 
-📍 **Based in**: Ogbomoso, Nigeria  
+
+💻 **Learning**: Python | Java | C++ | HTML | CSS | JavaScript | Animation 
+
+🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor | FullStack Developer
+
+📍 **Based In**: Ogbomoso, Nigeria
+
 📫 **Contact Me**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)  
+
 🌐 **Facebook**: [David Godspower](https://web.facebook.com/facebook.comDavidGodpower) 
 
 ---
