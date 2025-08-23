@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** at **LAUTECH**  
 
-💻 **Learning**: Python | Java | C++ | HTML | CSS | JavaScript | Animation 
+💻 **Learning**: Python | Java | C++ | HTML | CSS | JavaScript | Kotlin | React Native | Animation | Video Editing 
 
 🚀 **Aspiring**: Software Developer | Creative Animator | Video Editor | FullStack Developer
 
