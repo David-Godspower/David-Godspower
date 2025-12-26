@@ -10,7 +10,8 @@
 
 📫 **Contact Me**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)  
 
-🌐 **Facebook**: [David Godspower](https://web.facebook.com/facebook.comDavidGodpowerAjalaDGA/)
+🌐 **Personal Portfolio**: [David Godspower Ajala](https://david-godspower.github.io/david-portfolio/)
+
 
 ---
 
