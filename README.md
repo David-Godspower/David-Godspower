@@ -18,7 +18,7 @@ I am a **Computer Engineering Student** at **LAUTECH** with a passion for buildi
 * **Tools:** VS Code, Git, GitHub
 
 **Mobile Development**
-* **Languages:** Kotlin, React Native
+* **Languages:** Kotlin, Java
 * **Focus:** Android App Development
 
 **Backend & Core Concepts**
