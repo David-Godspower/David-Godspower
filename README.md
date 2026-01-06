@@ -1,53 +1,48 @@
-# Hi there, I'm David Godspower Ajala! 👋
+# Hi, I'm David Godspower Ajala 👋
 
 ### Software Engineer | Frontend Developer | Creative Animator
 
-![Profile Views](https://komarev.com/ghpvc/?username=David-Godspower&label=Profile%20Views&color=0e75b6&style=flat)
-
 I am a **Computer Engineering Student** at **LAUTECH** with a passion for building pixel-perfect, responsive web interfaces. I combine technical logic with creative design to solve real-world problems.
 
-[🌐 **VISIT MY PORTFOLIO**](https://david-godspower.github.io/david-portfolio/)  |  [👔 **LINKEDIN**](https://www.linkedin.com/in/david-ajala-a93b862a1/)
+- 🌐 **Portfolio**: [Click to View My Work](https://david-godspower.github.io/david-portfolio/)
+- 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/david-ajala-a93b862a1/)
+- 📧 **Email**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend Development**
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Frameworks:** React
+* **Tools:** VS Code, Git, GitHub
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Mobile Development**
+* **Languages:** Kotlin, React Native
+* **Focus:** Android App Development
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 💼 Selected Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **💰 Budget Tracker** | A logic-heavy app to track income and expenses. | `JavaScript` `DOM` |
-| **🧠 Quiz App** | An interactive quiz platform with score logic. | `JavaScript` `HTML/CSS` |
-| **🗳️ Voting Checker** | Validates user eligibility based on age. | `C++` / `Python` |
-| **💬 Quote Generator** | Fetches and displays inspirational quotes. | `JavaScript` `API` |
-
-[🔗 **View All Repositories**](https://github.com/David-Godspower?tab=repositories)
+**Backend & Core Concepts**
+* **Languages:** Python, Java, C++
+* **Skills:** Data Structures, Algorithms, DOM Manipulation
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Selected Projects
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Godspower&show_icons=true&theme=radical&hide_border=true)
+**💰 Budget Tracker**
+* *What it is:* A logic-heavy app to track income and expenses.
+* *Tech:* JavaScript, DOM Manipulation.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Godspower&layout=compact&theme=radical&hide_border=true)
+**🧠 Quiz App**
+* *What it is:* An interactive quiz platform with score tracking logic.
+* *Tech:* HTML, CSS, JavaScript.
+
+**🗳️ Voting Eligibility Program**
+* *What it is:* A C++/Python program that validates user voting eligibility.
+
+**[View All My Repositories Here](https://github.com/David-Godspower?tab=repositories)**
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 I don't just write code; I tell stories. As the founder of **Power Creative Network**, I use animation and video editing to bring digital ideas to life!
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **ajaladavid11@gmail.com**
