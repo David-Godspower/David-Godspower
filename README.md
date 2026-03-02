@@ -1,48 +1,78 @@
-# Hi, I'm David Godspower Ajala 👋
+<h1 align="center">Hi 👋, I'm David Godspower Ajala</h1>
 
-### Software Engineer | Frontend Developer | Creative Animator
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Creative+Animator;Android+Developer+in+Progress;LOCK+IN+🔒🔥+%7C+Movement+💃🔥" />
+</p>
 
-I am a **Computer Engineering Student** at **LAUTECH** with a passion for building pixel-perfect, responsive web interfaces. I combine technical logic with creative design to solve real-world problems.
-
-- 🌐 **Portfolio**: [Click to View My Work](https://david-godspower.github.io/david-portfolio/)
-- 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/david-ajala-a93b862a1/)
-- 📧 **Email**: [ajaladavid11@gmail.com](mailto:ajaladavid11@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Godspower&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/David-Godspower?label=Followers&style=flat&color=0e75b6" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
+- 🎓 Computer Engineering student at **LAUTECH**
+- 💻 I build **logic-driven, responsive web applications**
+- 🎨 Founder of **Power Creative Network** (Animation & Branding)
+- 📱 Currently learning **Android Development (Kotlin + Android Studio)**
+- 🧠 Practicing **DSA (LeetCode)**
 
-**Frontend Development**
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks:** React
-* **Tools:** VS Code, Git, GitHub
+---
 
-**Mobile Development**
-* **Languages:** Kotlin, Java
-* **Focus:** Android App Development
+## 🌐 Connect With Me
+<p>
+<a href="https://david-godspower.github.io/david-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/david-godspower-ajala">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ajaladavid11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/David-Godspower">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-**Backend & Core Concepts**
-* **Languages:** Python, Java, C++
-* **Skills:** Data Structures, Algorithms, DOM Manipulation
+---
+
+## 🛠️ Tech Stack
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0B1320?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Kotlin-4B0082?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Selected Projects
+- 💰 **Budget Tracker** → https://david-godspower.github.io/budget-tracker/
+- 🧠 **MindXam / Quiz App** → https://david-godspower.github.io/MindXam/
+- 🛒 **PowerStore (In Progress)** → https://david-godspower.github.io/powerstore/
+- 📚 **Digital Library Manager** → https://david-godspower.github.io/library-app/
 
-**💰 Budget Tracker**
-* *What it is:* A logic-heavy app to track income and expenses.
-* *Tech:* JavaScript, DOM Manipulation.
-
-**🧠 Quiz App**
-* *What it is:* An interactive quiz platform with score tracking logic.
-* *Tech:* HTML, CSS, JavaScript.
-
-**🗳️ Voting Eligibility Program**
-* *What it is:* A C++/Python program that validates user voting eligibility.
-
-**[View All My Repositories Here](https://github.com/David-Godspower?tab=repositories)**
+➡️ All repos: https://github.com/David-Godspower?tab=repositories
 
 ---
 
-## ⚡ Fun Fact
-I don't just write code; I tell stories. As the founder of **Power Creative Network**, I use animation and video editing to bring digital ideas to life!
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=David-Godspower&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Godspower&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=David-Godspower&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+---
+
+<h3 align="center">LOCK IN 🔒🔥 | Movement 💃🔥</h3>
