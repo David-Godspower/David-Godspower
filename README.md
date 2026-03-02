@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Godspower Ajala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Creative+Animator;Android+Developer+in+Progress;LOCK+IN+🔒🔥+%7C+Movement+💃🔥" />
+<a href="https://david-godspower.github.io/david-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/david-godspower-ajala">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ajaladavid11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
@@ -39,18 +47,16 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/React-0B1320?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Kotlin-4B0082?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-073042?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
 ---
 
 ## 💼 Selected Projects
@@ -65,13 +71,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=David-Godspower&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Godspower&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=David-Godspower&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Godspower&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=David-Godspower&theme=tokyonight&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=David-Godspower&theme=tokyonight" />
 </p>
+
 
 ---
 
