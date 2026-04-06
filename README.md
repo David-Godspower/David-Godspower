@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Godspower Ajala</h1>
 
 <p align="center">
-<a href="https://david-godspower.github.io/david-portfolio/">
+<a href="https://davidgodspowerajala.me/">
   <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/david-godspower-ajala">
@@ -61,9 +61,9 @@
 ---
 
 ## 💼 Selected Projects
+- 🛒 **PowerStore** → https://david-godspower.github.io/powerstore/
 - 💰 **Budget Tracker** → https://david-godspower.github.io/budget-tracker/
 - 🧠 **MindXam / Quiz App** → https://david-godspower.github.io/MindXam/
-- 🛒 **PowerStore (In Progress)** → https://david-godspower.github.io/powerstore/
 - 📚 **Digital Library Manager** → https://david-godspower.github.io/library-app/
 
 ➡️ All repos: https://github.com/David-Godspower?tab=repositories
