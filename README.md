@@ -61,7 +61,7 @@
 ---
 
 ## 💼 Selected Projects
-- 🛒 **PowerStore** → https://david-godspower.github.io/powerstore/
+- 🛒 **PurchasePalace** → https://david-godspower.github.io/purchasepalace/
 - 💰 **Budget Tracker** → https://david-godspower.github.io/budget-tracker/
 - 🧠 **MindXam / Quiz App** → https://david-godspower.github.io/MindXam/
 - 📚 **Digital Library Manager** → https://david-godspower.github.io/library-app/
