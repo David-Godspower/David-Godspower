@@ -24,7 +24,7 @@
 - 🏢 **IT & Networking Intern** at the **Management Information Centre**, Oyo State Secretariat
 - 💻 **Frontend Engineer** focusing on logic-driven, responsive web applications
 - 🎨 Founder of **Power Creative Network** (Animation & Branding)
-- 📈 **2026 Goal**: 3,000+ Contributions (Current: **500+** 🔥)
+- 📈 **2026 Goal**: 3,000+ Contributions (Current: **1000+** 🔥)
 
 ---
 
